@@ -1,0 +1,11 @@
+﻿.vs
+.vscode
+Library
+Logs
+obj
+Temp
+UserSettings
+UnityEngine.UI.Player.csproj
+*.vsconfig
+*.csproj
+test_xlab.sln
